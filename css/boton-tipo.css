@@ -1,0 +1,37 @@
+#btn-agregar-tipo
+{
+    font-size:48px
+}
+#btn-agregar-tipo:hover
+{
+    font-size:52px
+    color:#000 ;
+}
+.boton-btn-tipo{
+	border: none;
+	background-color: transparent;
+}
+.boton-btn-tipo:hover{
+	 -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.boton-btn-tipo-borrar:hover{
+	 -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.fa-minus-circle{
+	position: sticky;
+	border: none;
+	background: transparent;
+}
+.form-control{
+	border: none;
+}
+#txt-tip:hover{
+	transform-style: 1.2;
+	cursor: pointer;
+	
+}
